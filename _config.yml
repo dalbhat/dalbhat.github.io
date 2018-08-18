@@ -42,5 +42,6 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+
 timezone: Europe/London
 permalink: /:categories/:year/:month/:day/:title/
